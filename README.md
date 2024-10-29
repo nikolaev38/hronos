@@ -2,7 +2,7 @@
 
 
 >####
-[![Web_site](https://img.shields.io/badge/Web_site-Streamlit-803e75.svg)](https://github.com/licenses/mit/)
+[![Web_site](https://img.shields.io/badge/Web_site-Streamlit-803e75.svg)](/web_site_streamlit)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 # Hronos "Асистент с искуственны интелектом для работы с научной литературой"
