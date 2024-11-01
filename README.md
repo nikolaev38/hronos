@@ -22,7 +22,7 @@
    1. ### На каких языках написаны статьи?
    2. ### Какие тематики можно выделить?
    3. ### Какие проблемы есть в данных?
-Подробнее моежете узнать из этой [README.MD](https://github.com/nikolaev38/hronos/blob/main/analitics/README.md)
+Подробнее можете узнать из этой [README.MD](https://github.com/nikolaev38/hronos/blob/main/analitics/README.md)
 
 1. ### На каких языках написаны статьи?
     Мы пропустили весь зрубежный датасет _PubMed_ через ___nltk.tokenize.sent_tokenize___, который разделил датасет на логические предложения, а потом выявили наиболее доминирующие кластеры языков с помощью ___langdetect.detect_langs___, потом получившиеся кластеры языков мы визуализировали и получили график распространённости:
@@ -53,3 +53,4 @@
 
 - [@shipovnikAAA](https://github.com/shipovnikAAA)
 - [@nikolaev38](https://github.com/nikolaev38)
+- [@Aleksandr](https://github.com/Aleksandr)
