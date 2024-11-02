@@ -5,7 +5,7 @@
 [![Web_site](https://img.shields.io/badge/Web_site-Streamlit-803e75.svg)](/web_site_streamlit)
 [![Analitics](https://img.shields.io/badge/Analitics-of_pubmed-87CEEB.svg)](/analitics)
 [![Guide for launch](https://img.shields.io/badge/Guide-for_launch-5F9EA0.svg)](guide_for_launch.md)
-# Hronos "Асистент с искуственны интелектом для работы с научной литературой"
+# Hronos "Ассистент с искусственны интеллектом для работы с научной литературой"
 
 Современные научные сотрудники сталкиваются с лавиной данных из разлчных сфер деятельности, которую невозможно или очень тяжело обработать вручную.
 
