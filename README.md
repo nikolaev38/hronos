@@ -25,6 +25,11 @@
 
    Подробнее можете узнать из этой [README.MD](https://github.com/nikolaev38/hronos/blob/main/analitics/README.md)
 
+## Прототип web-сервиса
+   Мы разработали **прототип web-сервиса**, в который можно загрузить статью формата pdf и получить её краткое содержание в виде текста. Используя фреймворк [___streamlit___](https://streamlit.io/), но мы так же разрабатывали прототип для работы с рекомендательной системой на фреймворке [___flet___](https://flet.dev/)
+
+   Подробнее можете узанать в этой [README.MD](https://github.com/nikolaev38/hronos/blob/main/web_site_streamlit/README.md)
+
 ## Authors
 
 - [@shipovnikAAA](https://github.com/shipovnikAAA)
