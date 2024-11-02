@@ -4,7 +4,7 @@
 >####
 [![Web_site](https://img.shields.io/badge/Web_site-Streamlit-803e75.svg)](/web_site_streamlit)
 [![Analitics](https://img.shields.io/badge/Analitics-of_pubmed-87CEEB.svg)](/analitics)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[![Guide for lunch](https://img.shields.io/badge/Guide-for_lunch-5F9EA0.svg)](guide_for_lunch.md)
 # Hronos "Асистент с искуственны интелектом для работы с научной литературой"
 
 Современные научные сотрудники сталкиваются с лавиной данных из разлчных сфер деятельности, которую невозможно или очень тяжело обработать вручную.
@@ -22,7 +22,8 @@
    1. ___На каких языках написаны статьи?___
    2. ___Какие тематики можно выделить?___
    3. ___Какие проблемы есть в данных?___
-Подробнее можете узнать из этой [README.MD](https://github.com/nikolaev38/hronos/blob/main/analitics/README.md)
+
+   Подробнее можете узнать из этой [README.MD](https://github.com/nikolaev38/hronos/blob/main/analitics/README.md)
 
 1. ### На каких языках написаны статьи?
     Мы пропустили весь зрубежный датасет _PubMed_ через ___nltk.tokenize.sent_tokenize___, который разделил датасет на логические предложения, а потом выявили наиболее доминирующие кластеры языков с помощью ___langdetect.detect_langs___, потом получившиеся кластеры языков мы визуализировали и получили график распространённости:
