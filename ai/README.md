@@ -3,3 +3,4 @@
 При выборе модели для сайта, а именно [gemma-2-9b-it-Q6_K_L.gguf](https://huggingface.co/bartowski/gemma-2-9b-it-GGUF?show_file_info=gemma-2-9b-it-Q6_K_L.gguf), мы опираясь на анализ 3 моделей на разных метриках.
 
 Подробнее про наш анализ моделей можете прочитать в данной [README.MD](https://github.com/nikolaev38/hronos/blob/main/analitics/README.md)
+---
