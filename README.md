@@ -36,6 +36,7 @@
 ---
 
 ## Полезные ссылки
+
 <p align="center">
   <a href="/web_site_streamlit">
   <img src="https://img.shields.io/badge/Web_site-Streamlit-803e75.svg">
@@ -49,6 +50,7 @@
   <img src="https://img.shields.io/badge/Guide-for_launch-5F9EA0.svg">
   </a>
 </p>
+
 ---
 
 > **Примечание:** Если у вас есть вопросы или предложения, не стесняйтесь обращаться к авторам проекта.
