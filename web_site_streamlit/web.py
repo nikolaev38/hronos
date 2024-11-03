@@ -1,5 +1,6 @@
 import PyPDF2
 import streamlit as st
+import os
 from langchain.llms import LlamaCpp
 from langchain.callbacks.manager import CallbackManager
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
@@ -10,9 +11,11 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from streamlit import file_uploader
 
+curent_folder = os.getcwd()
+
 callback = CallbackManager([StreamingStdOutCallbackHandler()])
 llm = LlamaCpp(
-    model_path="gemma-2-9b-it-q4_k_m.gguf",
+    model_path=os.path.join(os.path.dirname(curent_folder), 'ai', 'gemma-2-9b-it-Q6_K_L.gguf'),
     temperature=0.4,
     n_gpu_layers=50,
     n_batch=2048,
