@@ -1,4 +1,4 @@
-[![Guide for launch](https://img.shields.io/badge/Guide-for_launch-5F9EA0.svg)](guide_for_launch.md)
+[![Guide for launch](https://img.shields.io/badge/Guide-for_launch-5F9EA0.svg)](..guide_for_launch.md)
 
 ## Исследовательский анализ данных
 
