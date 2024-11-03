@@ -8,15 +8,15 @@
 
 # Клонируем репозиторий
 
-> git clone https://github.com/nikolaev38/hronos.git
+>>> git clone https://github.com/nikolaev38/hronos.git
 
 # Переходим в него
 
-> cd htonos
+>>> cd htonos
 
 #Устанавливаем список библиотек
 
-> pip install -r requirements.txt
+>>> pip install -r requirements.txt
 
 
 
