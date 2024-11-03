@@ -27,6 +27,34 @@
 
 ---
 
+## Структура нашего проекта.
+```
+📦 
+├─ .gitignore
+├─ README.md - основная README.md
+├─ ai - дериктория с моделями
+│  └─ README.md - предупреждение об отсутствии моделей из-за их веса.
+├─ analitics - дериктория анализа.
+│  ├─ Bert.png - изображение таблицы анализа метрики bert-score.
+│  ├─ Cosinuse.png - изображение таблицы анализа метрики косинусового сходства.
+│  ├─ Language.png - график распространённости языков в стаьях
+│  ├─ README.md - README.md об аналитике
+│  ├─ Rouge.png - изображение таблицы анализа метрики Rouge
+│  ├─ Theme.png - график распространённости тем в статьях
+│  ├─ analitis.ipynb - jupyter notebook с анализом.
+│  └─ data - директория с датасетом
+│     └─ README.md - предупреждение об отсутствии датасетов из-за веса
+├─ banner.png - Логотип
+├─ guide_for_launch.md - руководство по локальному запуску
+├─ requirements.txt - зависимости
+└─ web_site_streamlit - директория с web сервисом
+   ├─ README.md - README.md о web сервисе.
+   ├─ Structure.png - изображение будущей структуры 
+   └─ web.py - код web сервиса
+```
+
+---
+
 ## Авторы
 
 - [@shipovnikAAA](https://github.com/shipovnikAAA)
