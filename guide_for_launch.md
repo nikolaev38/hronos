@@ -29,7 +29,7 @@
 
 ```
 ---
-### Обратите внимание, что вам будет необходимо локально загрузить датасет pubmed *[тут](https://huggingface.co/datasets/ccdv/pubmed-summarization/tree/main/document)**, а также скачать все локальные модели, используемые в анализе и веб сайте **[тут](https://huggingface.co/bartowski/gemma-2-9b-it-GGUF?show_file_info=gemma-2-9b-it-Q6_K_L.gguf)** и **[тут](https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF?show_file_info=Llama-3.2-3B-Instruct-Q6_K_L.gguf)**!!!!!
+### Обратите внимание, что вам будет необходимо локально загрузить датасет pubmed **[тут](https://huggingface.co/datasets/ccdv/pubmed-summarization/tree/main/document)**, а также скачать все локальные модели, используемые в анализе и веб сайте **[тут](https://huggingface.co/bartowski/gemma-2-9b-it-GGUF?show_file_info=gemma-2-9b-it-Q6_K_L.gguf)** и **[тут](https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF?show_file_info=Llama-3.2-3B-Instruct-Q6_K_L.gguf)**!!!!!
 
 
 ## Запуск web сайта:
