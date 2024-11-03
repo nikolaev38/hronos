@@ -1,8 +1,6 @@
 # Demo
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/nikolaev38/hronos/blob/main/web_site_streamlit/Demo_streamlit.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/30f3d1b6-150c-49c4-abb5-efedcf88350f
 
 # demok
 
