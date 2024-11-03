@@ -38,11 +38,16 @@
 ## Полезные ссылки
 <p align="center">
   <a href="/web_site_streamlit">
+  <img src="https://img.shields.io/badge/Web_site-Streamlit-803e75.svg">
+  </a>
+  
+  <a href="/analitics">
   <img src="https://img.shields.io/badge/Analytics-of_pubmed-87CEEB.svg">
-</a>
-[![Web_site](https://img.shields.io/badge/Web_site-Streamlit-803e75.svg)](/web_site_streamlit)
-[![Analytics](https://img.shields.io/badge/Analytics-of_pubmed-87CEEB.svg)](/analitics)
-[![Guide for launch](https://img.shields.io/badge/Guide-for_launch-5F9EA0.svg)](guide_for_launch.md)
+  </a>
+  
+  <a href="guide_for_launch.md">
+  <img src="https://img.shields.io/badge/Guide-for_launch-5F9EA0.svg">
+  </a>
 </p>
 ---
 
