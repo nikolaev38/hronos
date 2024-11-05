@@ -54,8 +54,8 @@
 
 # Запускаем файл
 
->>> python web.py
+>>> streamlit run web.py
 
 ```
 ---
-### Обраьите внимание чтобы запусть локально. необходимо скачать локальную модель, используемые веб сайте **[тут](https://huggingface.co/bartowski/gemma-2-9b-it-GGUF?show_file_info=gemma-2-9b-it-Q6_K_L.gguf)**!!!!!
+### Обратите внимание. Чтобы запусть локально, необходимо скачать данную модель **[тут](https://huggingface.co/bartowski/gemma-2-9b-it-GGUF?show_file_info=gemma-2-9b-it-Q6_K_L.gguf)**!!!!!
