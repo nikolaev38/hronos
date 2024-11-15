@@ -15,7 +15,7 @@
 3. **Какие проблемы есть в данных?**
 4. **Сравнили 3 модели на разных метриках и обосновали их**
 
-Подробнее ознакомиться с результатами анализа можно в этой [README.MD](https://github.com/nikolaev38/hronos/blob/main/analitics/README.md).
+Подробнее ознакомиться с результатами анализа можно в этой [README.MD](https://github.com/nikolaev38/hronos/tree/2nd-stage/analitics/README.md).
 
 ---
 
