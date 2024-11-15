@@ -15,7 +15,7 @@
 3. **Какие проблемы есть в данных?**
 4. **Сравнили 3 модели на разных метриках и обосновали их**
 
-Подробнее ознакомиться с результатами анализа можно в этой [README.MD](https://github.com/nikolaev38/hronos/blob/main/analitics/README.md).
+Подробнее ознакомиться с результатами анализа можно в этой [README.MD](https://github.com/nikolaev38/hronos/tree/2nd-stage/analitics/README.md).
 
 ---
 
@@ -23,7 +23,7 @@
 
 Мы разработали **прототип веб-сервиса**, который позволяет загружать статьи в формате PDF и получать их краткое содержание в виде текста. Для этого был использован фреймворк [___Streamlit___](https://streamlit.io/). Также мы разрабатывали прототип для работы с рекомендательной системой на фреймворке [___Flet___](https://flet.dev/).
 
-Дополнительную информацию можно найти в этой [README.MD](https://github.com/nikolaev38/hronos/blob/main/web_site_streamlit/README.md).
+Дополнительную информацию можно найти в этой [README.MD](https://github.com/nikolaev38/hronos/tree/2nd-stage/web_site_streamlit/README.md).
 
 ---
 
