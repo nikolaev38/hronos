@@ -1,6 +1,6 @@
 <p align="center">
   <a href="/web_site_streamlit">
-  <img src="https://github.com/nikolaev38/hronos/blob/main/banner.png" border-radius: 30px>
+  <img src="https://github.com/nikolaev38/hronos/blob/main/banner.png">
   </a>
 </p>
 
