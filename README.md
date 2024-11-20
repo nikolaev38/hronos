@@ -5,9 +5,7 @@
 </p>
 
 
-<html>
-<head>
-    <title>Rounded Corners</title>
+<div>
     <style>
         .GFG {
             border-radius: 35px;
@@ -18,15 +16,11 @@
             height: 120px;
         }
     </style>
-</head>
-
-<body>
-    <div class="GFG">
-        <h2>GeeksforGeeks</h2>
-        <p>border-radius: 35px;</p>
-    </div>
-</body>
-</html>
+</div>
+  <div class="GFG">
+    <h2>GeeksforGeeks</h2>
+    <p>border-radius: 35px;</p>
+</div>
 
 # Hronos: Ассистент с искусственным интеллектом для работы с научной литературой
 
