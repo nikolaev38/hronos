@@ -1,4 +1,8 @@
-![banner](banner.png)
+<p align="center">
+  <a href="/web_site_streamlit">
+  <img src="https://github.com/nikolaev38/hronos/blob/main/banner.png">
+  </a>
+</p>
 
 # Hronos: Ассистент с искусственным интеллектом для работы с научной литературой
 
