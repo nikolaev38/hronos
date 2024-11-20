@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" border-radius: 30px>
   <a href="/web_site_streamlit">
   <img src="https://github.com/nikolaev38/hronos/blob/main/banner.png">
   </a>
