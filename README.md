@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/nikolaev38/hronos/blob/main/banner.png" height="auto" width="200" style="border-radius:50%"></a>
+<p href="url"><img src="https://github.com/nikolaev38/hronos/blob/main/banner.png" height="auto" width="auto" style="border-radius:50%"></p>
 
 # Hronos: Ассистент с искусственным интеллектом для работы с научной литературой
 
