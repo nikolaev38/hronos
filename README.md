@@ -61,7 +61,6 @@
 - [@shipovnikAAA](https://github.com/shipovnikAAA)
 - [@nikolaev38](https://github.com/nikolaev38)
 - [@Aleksandr](https://github.com/Aleksandr)
-- [@kaiyofx](https://github.com/kaiyofx)
 
 ---
 
